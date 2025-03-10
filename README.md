@@ -51,7 +51,6 @@ These dependencies are installed as part of the setup process but should you nee
 ```bash
 make install
 ```
-
 ### Starting the Postgres Docker container
 
 The labs use Postgres running in a Docker container. If for some reason the service is not available you can start it with:
