@@ -1,5 +1,8 @@
 # DevOps Capstone Template
 
+![Build Status](https://github.com/BendibHafed/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
@@ -48,7 +51,6 @@ These dependencies are installed as part of the setup process but should you nee
 ```bash
 make install
 ```
-
 ### Starting the Postgres Docker container
 
 The labs use Postgres running in a Docker container. If for some reason the service is not available you can start it with:
